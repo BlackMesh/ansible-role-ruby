@@ -11,8 +11,8 @@ None.
 
 ## Role Variables
 
-  ruby_ver: "2.1.2"
-  ruby_archive: ftp://ftp.ruby-lang.org/pub/ruby/2.1/ruby-{{ ruby_ver }}.tar.gz
+    ruby_ver: "2.1.2"
+    ruby_archive: ftp://ftp.ruby-lang.org/pub/ruby/2.1/ruby-{{ ruby_ver }}.tar.gz
 
 ## Dependencies
 
