@@ -1,0 +1,4 @@
+---
+download_path: /usr/local/src
+install_prefix: /usr/local
+configure_options: --disable-install-rdoc
